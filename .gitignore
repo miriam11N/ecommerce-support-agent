@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+test_claude.py
+test_mongo.py
